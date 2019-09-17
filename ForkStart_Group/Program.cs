@@ -19,11 +19,11 @@ namespace ForkStart_Group
     {
       Debug.WriteLine("Hello World from the instructor!");
 
-      // team member A's content goes here
+      // Nagarjuna's content goes here
 
-      // team member B's content goes here
+      // Ashrit's content goes here
 
-      // team member C's content goes here
+      // Sourabh's content goes here
 
     }
   }
